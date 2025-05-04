@@ -18,6 +18,8 @@ This is a “true” CRT simulation with every scanline being divided into multi
 4. Go to your Render Pipeline Settings -> Add Renderer Feature -> Vhs Effect Feature.
 5. Enjoy it!
 ## Images
+> Please note that images may be distorted as they are enlarged/reduced.
+>
 ###### Only CRT simulation
 ![image](https://github.com/user-attachments/assets/0fa0056d-3299-428b-988c-515f47fd2600)
 ###### Roll effect
